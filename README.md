@@ -10,9 +10,9 @@ Struggling with rendering issues in Adobe Creative Suite? Our documentation prov
 - [Optimizing Bounce Rates for RTL Web Interfaces](https://textarabi.com/blog/optimize-bounce-rate-rtl/)
 
 ## Language Processing & Research
-- [Advanced Arabic Diacritization (Tashkeel) for Academic Research](https://textarabi.com/tashkeel-academic-texts/)
+- [Advanced Arabic Diacritization (Tashkeel) for Academic Research](https://textarabi.com/blog/tashkeel-academic-texts/)
 - [Clean Arabic Text Databases in SQL](https://textarabi.com/blog/clean-arabic-database-sql/)
-- [Integrating Arabic NLP Tools in Research Workflows](https://textarabi.com/how-to-use-arabic-nlp-tools-academic-research/)
+- [Integrating Arabic NLP Tools in Research Workflows](https://textarabi.com/blog/how-to-use-arabic-nlp-tools-academic-research/)
 
 ## About TextArabi
 [TextArabi.com](https://textarabi.com) is a dedicated platform for localization tools, typography optimization, and Arabic language processing solutions.
